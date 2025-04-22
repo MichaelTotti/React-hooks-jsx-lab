@@ -6,9 +6,9 @@ import About from "./About";
 function App() {
   return (
     <div>
-      <NavBar />
-      <Home />
-      <About />
+      <NavBar/>
+      <Home/>
+      <About/>
     </div>
   );
 }
